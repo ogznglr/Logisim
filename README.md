@@ -1,7 +1,7 @@
 # Logisim
 I'm making computer circuits in logisim
 
-We well see:
+We will see:
 Register design,
 Memory design and
 Basic PC design
